@@ -107,5 +107,5 @@ def main():
     else:
         print("✅ Rapport de marché envoyé avec succès sur Discord !")
 
-if __path__ == "__main__":
+if __name__ == "__main__":
     main()
